@@ -2,7 +2,7 @@
 
 /*----------start header----------*/
 .header {
-  margin: 95px 24px;
+  margin: 93px 24px;
   display: grid;
   grid-template-columns: 455px 148px 185px 241px;
   align-items: center;
@@ -297,11 +297,12 @@
 .footer {
   margin: 191px 50px;
   display: grid;
-  grid-template-columns: 241px 150px 240px;
+  grid-template-columns: 241px 160px 240px;
   justify-content: space-between;
 }
 
 .footer__address {
+    padding-left: 3px;
   font-weight: 400;
   font-size: 18px;
   line-height: 24px;
